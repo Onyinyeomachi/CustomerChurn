@@ -69,6 +69,11 @@ Used `train_test_split()` with an 80/20 train-test ratio.
 - Prioritize models with **high recall** to reduce false negatives
 - Consider integrating churn prediction into CRM workflows
 
+
+### 6. Source
+- CSV file as data source
+
+
 ---
 
 ## Challenges Faced
